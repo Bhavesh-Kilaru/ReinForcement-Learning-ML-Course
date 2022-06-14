@@ -2,7 +2,7 @@
 """
 Created on Wed Feb 16 12:37:38 2022
 
-@author: Bhavesh Kilaru, Naveen Kumar Gorantla
+@author: Bhavesh Kilaru
 """
 
 import numpy as np
