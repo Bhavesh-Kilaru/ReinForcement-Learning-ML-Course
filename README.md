@@ -1,4 +1,4 @@
-# ReinForcement-Learning-ML-Course
+# Smart Tic-Tac-Toe player
 
 repo contains the code developed as a part Machine learning subject
 
