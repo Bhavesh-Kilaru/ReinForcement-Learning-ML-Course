@@ -2,7 +2,7 @@
 """
 Created on Tue Mar 1 21:39:05 2022
 
-@author: Bhavesh Kilaru, Naveen Kumar Gorantla
+@author: Bhavesh Kilaru
 """
 
 from abc import ABC, abstractmethod
