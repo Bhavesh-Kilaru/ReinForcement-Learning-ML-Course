@@ -2,7 +2,7 @@
 """
 Created on Tue Mar 15 11:17:05 2022
 
-@author: Bhavesh Kilaru, Naveen Kumar Gorantla
+@author: Bhavesh Kilaru
 """
 
 import matplotlib.pylab as plt
